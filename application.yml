@@ -1,0 +1,10 @@
+profile:
+    name: default
+application:
+    port: 8081
+    context: /context
+    name: default-application
+    Students:
+    - rno: 12
+      name: Kunal Kuswaha
+      marks: 67

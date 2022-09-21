@@ -1,0 +1,7 @@
+profile: dev
+application:
+  port: 8080
+  database:
+    DB_ROOT: hfifh
+    DB_NAME: HIFHIE
+    MONGO_URI: mongo://root:bihfii@localhost:27037/?authSource=admin&readPre=primaryPreferred&directConnect=false
